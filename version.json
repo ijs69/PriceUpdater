@@ -1,4 +1,5 @@
 {
     "version": "1.0.1",
-    "message": "Доступна нова версія PriceUpdater"
+    "message": "Доступна нова версія PriceUpdater",
+    "download": "https://github.com/ijs69/PriceUpdater/releases/latest"
 }
